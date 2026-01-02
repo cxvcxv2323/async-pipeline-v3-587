@@ -1,0 +1,1 @@
+const service_vfyh = <T>(args: T): T => { return args; };
